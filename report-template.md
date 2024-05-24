@@ -40,4 +40,4 @@ Given more time, I would focus more on hyperparameter tuning to explore addition
 ![model_test_score.png](model_test_score.png)
 
 ## Summary
-In conclusion, the AutoGluon solution proved to be highly effective in predicting bike-sharing-demand, showcasing the power of automated machine learning in real-world predictive modeling tasks.
+The AutoGluon solution proved to be highly effective in predicting bike-sharing-demand, showcasing the power of automated machine learning in real-world predictive modeling tasks.
