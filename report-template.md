@@ -33,13 +33,13 @@ Given more time, I would focus more on hyperparameter tuning to explore addition
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 In conclusion, the AutoGluon solution proved to be highly effective in predicting bike-sharing-demand, showcasing the power of automated machine learning in real-world predictive modeling tasks.
