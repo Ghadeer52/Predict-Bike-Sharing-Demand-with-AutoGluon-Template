@@ -37,15 +37,15 @@ To train the model and make predictions, follow these steps:
 
 Data Preprocessing: Prepare the dataset for training by running the preprocessing script.
 
-bash
-Copy code
-python scripts/preprocess_data.py
-Model Training: Train the model using the provided notebook.
 
 ```bash
-jupyter notebook notebooks/train_model.ipynb
-Prediction: Use the trained model to make predictions.
+python scripts/preprocess_data.py
 ```
+Model Training: Train the model using the provided notebook.
+```bash
+jupyter notebook notebooks/train_model.ipynb
+```
+Prediction: Use the trained model to make predictions.
 ```bash
 python scripts/predict.py
 ```
