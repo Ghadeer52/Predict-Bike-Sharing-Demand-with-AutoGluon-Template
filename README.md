@@ -27,10 +27,10 @@ pip install -r requirements.txt
 The dataset used for this project contains information about bike-sharing in a city, including features like the date, season, weather conditions, and the number of bikes rented.
 
 # Project Structure
-- [notebooks/:] Jupyter notebooks containing the analysis and model training code.
-- [data/:] Directory where the dataset is stored.
-- [scripts/:] Python scripts for data preprocessing and model evaluation.
-- [README.md:] Project documentation.
+- `notebooks/`: Jupyter notebooks containing the analysis and model training code.
+- `data/:`: Directory where the dataset is stored.
+- `scripts/`: Python scripts for data preprocessing and model evaluation.
+- `README.md`: Project documentation.
 
 # Usage
 To train the model and make predictions, follow these steps:
