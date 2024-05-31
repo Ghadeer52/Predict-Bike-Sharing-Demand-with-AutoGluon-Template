@@ -23,15 +23,16 @@ cd Predict-Bike-Sharing-Demand-with-AutoGluon-Template
 pip install -r requirements.txt
 ```
 
-##Dataset
+# Dataset
 The dataset used for this project contains information about bike-sharing in a city, including features like the date, season, weather conditions, and the number of bikes rented.
 
-#Project Structure
+# Project Structure
 notebooks/: Jupyter notebooks containing the analysis and model training code.
 data/: Directory where the dataset is stored.
 scripts/: Python scripts for data preprocessing and model evaluation.
 README.md: Project documentation.
-#Usage
+
+# Usage
 To train the model and make predictions, follow these steps:
 
 Data Preprocessing: Prepare the dataset for training by running the preprocessing script.
@@ -41,16 +42,16 @@ Copy code
 python scripts/preprocess_data.py
 Model Training: Train the model using the provided notebook.
 
-bash
-Copy code
+```bash
 jupyter notebook notebooks/train_model.ipynb
 Prediction: Use the trained model to make predictions.
-
-bash
-Copy code
+```
+```bash
 python scripts/predict.py
-Results
+```
+
+# Results
 The project successfully predicts bike-sharing demand with high accuracy. Detailed results and model performance metrics are available in the results/ directory.
 
-#Contributing
+# Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
