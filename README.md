@@ -21,6 +21,7 @@ To get started, clone the repository and install the necessary dependencies.
 git clone https://github.com/Ghadeer52/Predict-Bike-Sharing-Demand-with-AutoGluon-Template.git
 cd Predict-Bike-Sharing-Demand-with-AutoGluon-Template
 pip install -r requirements.txt
+```
 
 ##Dataset
 The dataset used for this project contains information about bike-sharing in a city, including features like the date, season, weather conditions, and the number of bikes rented.
