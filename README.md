@@ -28,7 +28,7 @@ The dataset used for this project contains information about bike-sharing in a c
 
 # Project Structure
 - `notebooks/`: Jupyter notebooks containing the analysis and model training code.
-- `data/:`: Directory where the dataset is stored.
+- `data/`: Directory where the dataset is stored.
 - `scripts/`: Python scripts for data preprocessing and model evaluation.
 - `README.md`: Project documentation.
 
